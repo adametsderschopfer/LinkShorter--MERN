@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "kaskober",
+  "mongoUri": "mongodb+srv://adametsofficial:kaskober@cluster0-rae55.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
